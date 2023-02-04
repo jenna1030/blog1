@@ -10,3 +10,13 @@ copyright = "Copyright © 2023, jenna1030, powered by Hugo, themed from holy"
 
 
 publishDir = "docs"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+
