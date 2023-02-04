@@ -2,4 +2,11 @@ baseurl = 'https://jenna1030.github.io/blog1'
 languageCode = 'ko-kr'
 title = 'My New Hugo Site'
 theme = 'holy'
+copyright = "Copyright © 2023, jenna1030, powered by Hugo, themed from holy"
+
+
+[params]
+  copyright = "Copyright © 2023, jenna1030, powered by Hugo, themed from holy"
+
+
 publishDir = "docs"
