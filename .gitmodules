@@ -4,3 +4,9 @@
 [submodule "holy"]
 	path = holy
 	url = https://github.com/serkodev/holy
+[submodule "themes/spectral"]
+	path = themes/spectral
+	url = https://github.com/sbruder/spectral.git
+[submodule "themes/hugo-theme-terminal"]
+	path = themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
