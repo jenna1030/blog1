@@ -15,6 +15,10 @@
       <guid>https://jenna1030.github.io/blog1/posts/my-first-post/</guid>
       <description>Introduction This is Bold text, and this is emphasized test.
 Visit the Hugowebsite!</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;Bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; test.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;website!&lt;/p&gt;
+</content>
     </item>
     
   </channel>
